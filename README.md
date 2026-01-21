@@ -210,3 +210,6 @@ Contributions are welcome! Please feel free to submit issues or pull requests.
 
 - Materials Project for the MPtrj dataset
 - ASE (Atomic Simulation Environment) developers
+
+---
+For further details, please refer to the respective folders or contact the author via the provided email.
